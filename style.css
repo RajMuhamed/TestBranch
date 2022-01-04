@@ -1,0 +1,22 @@
+h1{
+    color:red;
+    text-align:right
+}
+
+p{
+    background-color: black;
+    color: white;
+    width: 50%;
+}
+*{
+    color:rgb(240, 58, 149);
+}
+.heading{
+    color:red;
+    font-size:20px
+}
+.content{
+    color:cyan;
+    font-size:14px
+}
+ 
